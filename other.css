@@ -1,0 +1,21 @@
+#image{
+    width: 200px;
+    height:200px;
+}
+#des p{
+    font-size:0.8rem;
+}
+a{
+    font-size:1rem;
+}
+.h-primary{
+    padding:12px;
+    /* padding-bottom: 12px; */
+    font-size: 1.5rem;
+  }
+  #inside{
+    margin:0px;
+    padding-bottom:12px;
+    font-size: 1rem;
+    font-family: 'Kalam', cursive;
+  }
